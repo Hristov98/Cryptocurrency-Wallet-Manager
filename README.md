@@ -1,3 +1,5 @@
+Note: Replace the string constant API_KEY in the server's CoinAPI class with your personal CoinAPI key if you wish to run the project fully.
+
 TODO list of optimisations and expansion ideas:
 1. Add confirmation to buy/sell, so the user can know how much crypto he'll receive or how much it will sell for.
 2. Create a logger class to save exception and errors to a file
