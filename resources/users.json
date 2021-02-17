@@ -1,0 +1,61 @@
+[
+  {
+    "username": "a",
+    "profile": {
+      "username": "a",
+      "password": "3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d",
+      "portfolio": {},
+      "balance": 0.0
+    }
+  },
+  {
+    "username": "test",
+    "profile": {
+      "username": "test",
+      "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+      "portfolio": {
+        "ETH": {
+          "code": "ETH",
+          "cryptoAmount": 11.240757181598621,
+          "totalPrice": 20000.0
+        }
+      },
+      "balance": 80000.0
+    }
+  },
+  {
+    "username": "admin",
+    "profile": {
+      "username": "admin",
+      "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+      "portfolio": {
+        "BTC": {
+          "code": "BTC",
+          "cryptoAmount": 5.157328158945142,
+          "totalPrice": 250000.0
+        },
+        "LTC": {
+          "code": "LTC",
+          "cryptoAmount": 92.2905165277728,
+          "totalPrice": 20000.0
+        },
+        "V": {
+          "code": "V",
+          "cryptoAmount": 23.806122934818834,
+          "totalPrice": 5000.0
+        },
+        "RICE": {
+          "code": "RICE",
+          "cryptoAmount": 43001.30904584998,
+          "totalPrice": 100000.0
+        },
+        "UNO": {
+          "code": "UNO",
+          "cryptoAmount": 2247.9646642748085,
+          "totalPrice": 115000.0
+        }
+      },
+      "balance": 779928.9023073922
+    }
+  }
+]
